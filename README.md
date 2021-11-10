@@ -3,7 +3,7 @@
 **I'm a noob C# programmer, and I enjoy it :)**
 
 ![Amirreza's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a&show_icons=true&theme=gruvbox)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a)](https://github.com/amir34a/github-readme-stats)
 
 
 
