@@ -1,4 +1,4 @@
-### Hi dear friend 👋
+### Hi dear friend 👋🏼
 ### My neme is Amirreza
 **I'm a noob C# programmer, and I enjoy it :)**
 
