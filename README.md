@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi dear friend 👋
+### My neme is Amirreza
+**I'm a noob C# programmer, and I enjoy it :)**
+
+![Amirreza's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a&show_icons=true&theme=gruvbox)
+
+
+
 
 <!--
 **AMIR34A/AMIR34A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
