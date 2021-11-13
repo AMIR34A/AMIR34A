@@ -1,6 +1,7 @@
 ### Hi dear friend 👋🏼
 
-**My neme is Amirreza** /n
+**My neme is Amirreza**
+
 **I'm a student C# programmer, and I enjoy it :)**
 
 ### Status
