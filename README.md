@@ -2,7 +2,7 @@
 
 **My neme is Amirreza** <br />
 I'm a student C# programmer, and I enjoy it<br />
-There are always some new things, also I'm a noob :)
+There are always new things, so I'm a noob :)
 
  ### Status
  
