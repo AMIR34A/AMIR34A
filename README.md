@@ -1,8 +1,8 @@
 ### Hi dear friend 👋🏼
 
-**My neme is Amirreza** <br />
-I'm a student C# programmer, and I enjoy it<br />
-There are always new things, so I'm a noob :)
+**My neme is Amirreza** <br/>
+I'm a student C# programmer, and I enjoy it<br/>
+There are always new things, so enjoy them :)
 
  ### Status
  
