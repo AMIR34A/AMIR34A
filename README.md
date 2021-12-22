@@ -1,11 +1,11 @@
 ### Hi dear friend 👋🏼
 
-**My neme is Amirreza** #end
-**I'm a student C# programmer, and I enjoy it**
+**My neme is Amirreza** 
+-I'm a student C# programmer, and I enjoy it
 
 **There are always some new things, also I'm a noob :)**
 
-### Status
+ ###Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
