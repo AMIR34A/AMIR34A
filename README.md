@@ -2,10 +2,9 @@
 
 **My neme is Amirreza** <br/>
 I'm a student C# programmer, and I enjoy it<br/>
-There are always new things, so I'm a noob :)
-
+There are always new things, so I'm a noob :)<br/>
+[My LeetCode](https://leetcode.com/AMIR34A)<br/>
  ### Status
- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
