@@ -6,7 +6,7 @@ There are always new things, so I'm a noob :)<br/>
 [My LeetCode Page](https://leetcode.com/AMIR34A)<br/>
  ### Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://www.thesitewizard.com/" target="_blank">thesitewizard.com</a>
+<p>Check out <a href="https://leetcode.com/AMIR34A" target="_blank" rel="noopener noreferrer">My LeetCode Pag</a>.</p>
 
 
 
