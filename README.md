@@ -6,9 +6,13 @@ There are always new things, so I'm a noob :)<br/>
 [My LeetCode Page](https://leetcode.com/AMIR34A)<br/>
  ### Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://leetcode.com/AMIR34A" target="_blank">My LeetCode Page</a>
 
-<a href="/" rel="noopener noreferrer" target="_blank">My LeetCode.</a>
+
+
+
+
+
+
 
 <!--
 **AMIR34A/AMIR34A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
