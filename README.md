@@ -8,7 +8,7 @@ There are always new things, so I'm a noob :)<br/>
 ### Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-![Custom badge](https://img.shields.io/endpoint?label=LeetCode&logo=leetcode&logoColor=dark&style=social&url=https%3A%2F%2Fleetcode.com/AMIR34A)
+![Custom badge](https://img.shields.io/endpoint?label=LeetCode&logo=leetcode&logoColor=dark&style=social&url=https://leetcode.com/AMIR34A/)
 
 
 
