@@ -10,7 +10,7 @@ There are always new things, so I'm a noob :)<br/>
 
 
 <a href="https://twitter.com/AMIR34AA">
-   <img alt="Twitter" src="https://twitter.com/AMIR34AA?color=0088ff" />
+   <img alt="Twitter" src=https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
 </a>
 
 
