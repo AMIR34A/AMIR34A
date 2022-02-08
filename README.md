@@ -11,13 +11,11 @@ There are always new things, so I'm a noob :)<br/>
 
 <a>
    <img alt="Custom badge" src="https://img.shields.io/endpoint?label=Telegram&logo=twitter&logoColor=blue&style=social&url=https%3A%2F%2Ftwitter.com%2FAMIR34AA">
+      <img alt="Custom badge" src="https://img.shields.io/endpoint?label=Telegram&logo=telegram&logoColor=blue&style=social&url=https%3A%2F%2Ft.me%2FAMIR34A">
+      <<img alt="Custom badge" src="https://img.shields.io/endpoint?label=LeetCode&logo=leetcode&logoColor=dark&style=social&url=https%3A%2F%2Fleetcode.com%2FAMIR34A%2F">
+
 </a>
-<a>
-   <img alt="Custom badge" src="https://img.shields.io/endpoint?label=Telegram&logo=telegram&logoColor=blue&style=social&url=https%3A%2F%2Ft.me%2FAMIR34A">
-</a>
-<a>
-   <<img alt="Custom badge" src="https://img.shields.io/endpoint?label=LeetCode&logo=leetcode&logoColor=dark&style=social&url=https%3A%2F%2Fleetcode.com%2FAMIR34A%2F">
-</a>
+
 
 
 
