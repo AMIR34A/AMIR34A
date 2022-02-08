@@ -8,9 +8,6 @@ There are always new things, so I'm a noob :)<br/>
 ### Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-![Twitter URL](https://img.shields.io/Telegram/url?style=social&url=https%3A%2F%2Fshields.io)
-
-
 
 
 
