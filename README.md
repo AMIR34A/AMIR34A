@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 ### Hi dear friend 👋🏼
 
 **My neme is Amirreza** <br/>
@@ -6,9 +10,6 @@ There are always new things, so I'm a noob :)<br/>
 [My LeetCode Page](https://leetcode.com/AMIR34A)<br/>
  ### Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
 
