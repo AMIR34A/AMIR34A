@@ -10,7 +10,7 @@ There are always new things, so I'm a noob :)<br/>
 
 
 <a href="https://twitter.com/AMIR34AA">
-   https://img.shields.io/endpoint?url="https://twitter.com/AMIR34AA"&style?style=plastic&logo=appveyor
+   https://img.shields.io/endpoint?url="https://twitter.com/AMIR34AA"&style?style="plastic&logo=appveyor"
 </a>
 
 <!--
