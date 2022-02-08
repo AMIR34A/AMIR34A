@@ -8,11 +8,10 @@ There are always new things, so I'm a noob :)<br/>
 ### Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-
+![Custom badge](https://img.shields.io/endpoint?label=LeetCode&logo=leetcode&logoColor=dark&style=social&url=https%3A%2F%2Fleetcode.com%2FAMIR34A%2F)
 
    <img alt="Custom badge" src="https://img.shields.io/endpoint?label=Telegram&logo=twitter&logoColor=blue&style=social&url=https%3A%2F%2Ftwitter.com%2FAMIR34AA">
       <img alt="Custom badge" src="https://img.shields.io/endpoint?label=Telegram&logo=telegram&logoColor=blue&style=social&url=https%3A%2F%2Ft.me%2FAMIR34A">
-![Custom badge](https://img.shields.io/endpoint?label=LeetCode&logo=leetcode&logoColor=dark&style=social&url=https%3A%2F%2Fleetcode.com%2FAMIR34A%2F)
 
 
 
