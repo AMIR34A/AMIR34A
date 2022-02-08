@@ -12,7 +12,7 @@ There are always new things, so I'm a noob :)<br/>
 <a href="https://twitter.com/AMIR34AA">
    <img alt="Twitter" src=https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAMIR34AA>
 </a>
-https://img.shields.io/endpoint?url=<"https://twitter.com/AMIR34AA">&style<orange>
+https://img.shields.io/endpoint?url=<"https://twitter.com/AMIR34AA">&style<"?style=plastic&logo=appveyor">
 
 <!--
 **AMIR34A/AMIR34A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
