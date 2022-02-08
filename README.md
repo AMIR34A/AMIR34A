@@ -10,7 +10,7 @@ There are always new things, so I'm a noob :)<br/>
 
 
 <a href="https://twitter.com/AMIR34AA">
-   <img alt="Custom badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Ftwitter.com%2FAMIR34AA">
+   https://img.shields.io/endpoint?color=%23B0E0E6&label=Twitter&url=https%3A%2F%2Ftwitter.com%2FAMIR34AA
 </a>
 
 <!--
