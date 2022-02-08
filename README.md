@@ -5,16 +5,12 @@ I'm a student C# programmer, and I enjoy it<br/>
 There are always new things, so I'm a noob :)<br/>
 [My LeetCode Page](https://leetcode.com/AMIR34A)<br/>
 
-<a href="">
-   <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
-</a>
-
 ### Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 
-<a href="">
-   <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+<a href="https://twitter.com/AMIR34AA">
+   <img alt="Twitter" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
 </a>
 
 
