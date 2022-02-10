@@ -8,9 +8,7 @@ There are always new things, so I'm a noob :)<br/>
 ### Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-
-![https://img.shields.io/endpoint?color=blue&label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2FAMIR34A](https://github.com/anuraghazra/github-readme-stats)
-
+![Custom badge](https://img.shields.io/endpoint?label=twitter&url=https%3A%2F%2Ftwitter.com%2FAMIR34AA)
 
 <!--
 **AMIR34A/AMIR34A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
