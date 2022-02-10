@@ -13,7 +13,7 @@ There are always new things, so I'm a noob :)<br/>
   
   
   
-[![medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)]  
+![medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)
   
   
   
