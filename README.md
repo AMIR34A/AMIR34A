@@ -9,7 +9,7 @@ There are always new things, so I'm a noob :) <br/>
 [![AMIR34A's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) <br/>
   
   
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&labelColor=white&logo=telegram)](https://t.me/AMIR34A/)
+[![Telegram](https://img.shields.io/badge/blue?style=for-the-badge&labelColor=white&logo=telegram)](https://t.me/AMIR34A/)
 [![Twitter](https://img.shields.io/badge/twitter-blue?style=for-the-badge&labelColor=white&logo=twitter)](https://twitter.com/AMIR34AA) <br/>
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&labelColor=white&logo=leetcode)](https://leetcode.com/AMIR34A/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&labelColor=blue&logo=linkedin)](https://www.linkedin.com/in/amir34a/)
