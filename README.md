@@ -11,8 +11,8 @@ There are always new things, so I'm a noob :)<br/>
   
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&labelColor=white&logo=leetcode)](https://leetcode.com/AMIR34A/)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&labelColor=white&logo=telegram)](https://t.me/AMIR34A/)
- 
-  
+[![Twitter](https://img.shields.io/badge/twitter-blue?style=for-the-badge&labelColor=white&logo=twitter)](https://twitter.com/AMIR34AA)
+
   
   [Telegram]:https://t.me/AMIR34A/
 <!--
