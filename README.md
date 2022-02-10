@@ -10,12 +10,8 @@ There are always new things, so I'm a noob :)<br/>
   
   
   
-  
-  
-  
-<a target="_blank" href="https://t.me/AMIR34A/">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+[<img align="left" alt="medium" src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=blue" />][blog]
+
   
   
   
