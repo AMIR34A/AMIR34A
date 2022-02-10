@@ -10,7 +10,7 @@ There are always new things, so I'm a noob :)<br/>
   
   
   
-[<img align="left" alt="medium" src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=blue" />][blog]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=blue" />][https://t.me/AMIR34A]
 
   
   
