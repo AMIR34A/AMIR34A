@@ -10,7 +10,7 @@ There are always new things, so I'm a noob :)<br/>
 
 
 ![Custom badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday)
-
+![Custom badge](https://img.shields.io/endpoint?color=blue&label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2F2473%2AMIR34A)
 
 <!--
 **AMIR34A/AMIR34A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
