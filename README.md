@@ -13,7 +13,7 @@ There are always new things, so I'm a noob :)<br/>
   
   
   
-[![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg){ width=22 }](https://t.me/AMIR34A)
+[![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg)width="250"](https://t.me/AMIR34A)
   
   
   
