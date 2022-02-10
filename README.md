@@ -6,11 +6,11 @@ There are always new things, so I'm a noob :)<br/>
 [My LeetCode Page](https://leetcode.com/AMIR34A)<br/>
 
 ### Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![AMIR34A's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)<br/>
   
   
   
-![[Telegram](https://img.shields.io/badge/Telegram-181717?style=for-the-badge&logo=telegram)](https://t.me/AMIR34A/)
+[![Telegram](https://img.shields.io/badge/Telegram-181717?style=for-the-badge&logo=telegram)](https://t.me/AMIR34A/)
   
 
   
