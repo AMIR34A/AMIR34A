@@ -10,7 +10,7 @@ There are always new things, so I'm a noob :)<br/>
   
   
   
-[![Telegram](https://img.shields.io/badge/Telegram-008900?style=for-the-badge&logo=telegram)](https://t.me/AMIR34A/)
+[![Telegram](https://img.shields.io/badge/Telegram-yellow?style=for-the-badge&logo=telegram)](https://t.me/AMIR34A/)
   
 
   
