@@ -15,7 +15,7 @@ There are always new things, so I'm a noob :) <br/>
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&labelColor=white&logo=leetcode)](https://leetcode.com/AMIR34A/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&labelColor=blue&logo=linkedin)](https://www.linkedin.com/in/amir34a/) <br/>
 
-[text-to-highlight](https://t.me/AMIR34A/){:target="\_blank"}
+[text-to-highlight](https://t.me/AMIR34A/){target="\_blank"}
 
   
   <!--
