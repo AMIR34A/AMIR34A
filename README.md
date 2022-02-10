@@ -13,8 +13,7 @@ There are always new things, so I'm a noob :)<br/>
   
   
   
-[![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg)width="250"](https://t.me/AMIR34A)
-  
+[![medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)]  
   
   
   
