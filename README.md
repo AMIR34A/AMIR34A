@@ -1,6 +1,6 @@
 ### Hi dear friend 👋🏼
 
-**My neme is Amirreza** <br/>
+**My name is Amirreza** <br/>
 I'm a student C# programmer, and I enjoy it <br/>
 There are always new things:) <br/>
 
