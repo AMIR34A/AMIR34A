@@ -1,7 +1,7 @@
 ### Hi dear friend 👋🏼
 
 **My name is Amirreza** <br/>
-I'm a C# programmer, and I enjoy learning <br/>
+I'm a C# programmer and I enjoy learning <br/>
 There are always new things:) <br/>
 
 
