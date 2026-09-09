@@ -5,8 +5,9 @@ I'm a C# programmer and I enjoy learning. <br/>
 There are always new things:) <br/>
 
 
-### Status
-[![AMIR34A's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir34a&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) <br/>
+### Stats
+[![AMIR34A's GitHub stats](https://github-stats-extended.vercel.app/api?username=amir34a&rank_icon=github&theme=dark_github)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
   
   
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&labelColor=white&logo=telegram)](https://t.me/AMIR34A/)
